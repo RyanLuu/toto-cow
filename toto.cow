@@ -1,0 +1,10 @@
+$eyes =~ s/(.)(.)/$1..$2/;
+$the_cow = <<EOC;
+  $thoughts       /
+   $thoughts     // 
+       ,//-.
+       $eyes \\
+        v  @ \\
+       /$tongue    \\
+EOC
+
